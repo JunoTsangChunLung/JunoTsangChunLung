@@ -2,13 +2,11 @@
 
 ![Page Count](https://komarev.com/ghpvc/?username=guanquann&style=for-the-badge)
 
-<p>I'm Guan Quan, currently studying in NUS Business Analytics. Feel free to message me for collaboration!</p>
+<p>I'm Juno Tsang, currently studying in Hong Kong University of Science and Technology as a year 4 student major in IEDA. Feel free to message me for collaboration!</p>
 
 <ul>
-  <li><p><a href="https://guanquan.vercel.app/" target="_blank">Personal Website</a></p></li>
-  <li><p><a href="https://www.linkedin.com/in/guan-quan-tan-7328ba226/" target="_blank">Linkedin</a></p></li>
-  <li><p><a href="mailto:guanquantan5@gmail.com" target="_blank">Email</a></p></li>
-  <li><p><a href="https://devpost.com/guanquann/" target="_blank">DevPost</a></p></li>
+  <li><p><a href="https://www.linkedin.com/in/juno-tsang-308813228/" target="_blank">Linkedin</a></p></li>
+  <li><p><a href="mailto:junotsang1029@gmail.com" target="_blank">Email</a></p></li>
 </ul>
 
 **Languages:**
@@ -27,7 +25,6 @@
 **Data Science:**
 
 <span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45px" alt="pytorch" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45px" alt="tensorflow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45px" alt="pandas" />
 </span>
