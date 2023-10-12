@@ -2,7 +2,7 @@
 
 ![Page Count](https://komarev.com/ghpvc/?username=JunoTsangChunLung&style=for-the-badge)
 
-<p>Juno here, grauduated from Hong Kong University of Science and Techonology. Currently working for HPE as a Technology Consultant. Feel free to chat!</p>
+<p>Juno here. Feel free to chat!</p>
 
 <ul>
   <li><p><a href="https://www.linkedin.com/in/juno-tsang-308813228/" target="_blank">Linkedin</a></p></li>
